@@ -1,2 +1,2 @@
-features:enable http-session-affinity
+heroku features:enable http-session-affinity
 web: node index.js
