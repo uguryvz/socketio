@@ -1,2 +1,2 @@
-features:enable http-session-affinity
+web: enable http-session-affinity
 web: node index.js
